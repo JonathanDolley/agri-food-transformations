@@ -7,6 +7,7 @@ reading_time: false  # Show estimated reading time?
 
 tags:
 - Story Map
+- Ghaziabad
 
 #image:
   #focal_point: "top"

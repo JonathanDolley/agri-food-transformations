@@ -1,5 +1,5 @@
 ---
-title: Ghaziabad Story Map
+title: Ghaziabad Story Map 1
 date: 2021-11-12
 page_type: posts
 profile: false  # Show author profile?
@@ -7,6 +7,7 @@ reading_time: false  # Show estimated reading time?
 
 tags:
 - Story Map
+- Ghaziabad
 
 #image:
   #focal_point: "top"
