@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Professor
+role: PI, Research Professor
 
 # Organizations/Affiliations
 organizations:
