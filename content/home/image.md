@@ -32,7 +32,7 @@ The [web-app](https://landscapes.wearepal.ai/) provides a novel approach to comb
 
 Our hope is that the web-app can be used by others to support research and stakeholder engagement on urban sustainability policy and landscape management. It also has the potential to enable integration of citizen science methods and crowd sourced data analysis with new and evolving deep learning techniques for image analysis in many fields including and beyond land-use classification.
 
-It is currently being used and further developed as part of a 12.5 consortium pilot programme, ['Nature-based Solutions for Climate Change at the Landscape Scale'](https://naturalengland.blog.gov.uk/2021/07/23/nature-based-solutions-for-climate-change-at-the-landscape-scale-a-new-12-5m-pilot-programme/). This is a Defra - BEIS project supported by the Treasury’s Shared Outcomes Fund and led by Natural England, Environment Agency, RBG Kew and the Forestry Commission.
+It is currently being used and further developed as part of a £12.5m pilot programme, ['Nature-based Solutions for Climate Change at the Landscape Scale'](https://naturalengland.blog.gov.uk/2021/07/23/nature-based-solutions-for-climate-change-at-the-landscape-scale-a-new-12-5m-pilot-programme/). This is a Defra - BEIS project supported by the Treasury’s Shared Outcomes Fund and led by Natural England, Environment Agency, RBG Kew and the Forestry Commission.
 
 Our project website presents details of the research, a description of the web-app and a summary of project outputs.
 
